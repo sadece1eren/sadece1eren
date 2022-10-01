@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Eren. :man_technologist:</h1>
 <h3 align="center">👩‍💻 Just a normal computer science student :D 🖥️</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/991806268274643007/1025712091220418560/ezgif-1-9a6af63bbf.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/984153184723415082/1025848036498346024/perfect.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-jhrox&label=Profile%20views&color=0e75b6&style=flat" alt="mr-jhrox" /> </p>
 
