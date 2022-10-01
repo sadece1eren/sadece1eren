@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **HTML , CSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mr-jhRoX?tab=repositories](https://github.com/Mr-jhRoX?tab=repositories)
-
 - 📫 How to reach me **eren_er77@outlook.com**
 
 - 📄 7 years computer experince 4 years codding experince
