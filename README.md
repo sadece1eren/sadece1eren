@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/jhrox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jhrox" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20136044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20136044" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc54t4hhc5j9sc_aifrm4oyq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc54t4hhc5j9sc_aifrm4oyq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/uc54t4hhc5j9sc_aifrm4oyq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc54t4hhc5j9sc_aifrm4oyq" height="30" width="40" /></a>
 <a href="https://discords.com/bio/p/jhrox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discords.com/bio/p/jhrox" height="30" width="40" /></a>
 </p>
 
