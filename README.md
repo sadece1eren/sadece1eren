@@ -1,4 +1,4 @@
-<h1 align="center">Hi there,I'm Eren. :man_technologist:</h1>
+<h1 align="center">Hi there, I'm Eren. :man_technologist:</h1>
 <h3 align="center">👩‍💻 Just a normal computer science student :D 🖥️</h3>
 
 <img align="right" alt="Coding" width="400" src="https://im.ezgif.com/tmp/ezgif-1-9a6af63bbf.gif">
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **HTML , CSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mr-jhRoX](https://github.com/Mr-jhRoX)
+- 👨‍💻 All of my projects are available at [https://github.com/Mr-jhRoX?tab=repositories](https://github.com/Mr-jhRoX?tab=repositories)
 
 - 📫 How to reach me **eren_er77@outlook.com**
 
-- 📄 7 years computer experince 4 years codding experince :d
+- 📄 Also my experiences [7 years computer experince 4 years codding experince](7 years computer experince 4 years codding experince)
 
 - ⚡ Fun fact **im student xD**
 
