@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **eren_er77@outlook.com**
 
-- 📄 7 years computer experince 4 years codding experince
+- 📄 7 years computer experince 5 years codding experince
 
 
 <h3 align="left">Connect with me:</h3>
