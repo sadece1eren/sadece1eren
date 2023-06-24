@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **c# game trainers**
 
-- 🌱 I’m currently learning **HTML , CSS , Reverse Engineering**
+- 🌱 I’m currently learning **Reverse Engineering , C++**
 
 - 📫 How to reach me **eren_er77@outlook.com**
 
