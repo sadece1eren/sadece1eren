@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **Reverse Engineering , C++**
 
-- 📫 How to reach me **eren_er77@outlook.com**
-
-- 📄 7 years computer experince 5 years codding experince
-
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
